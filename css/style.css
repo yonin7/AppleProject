@@ -206,7 +206,7 @@ body {
 }
 
 .main__ipone13pro {
-  background-image: url(/Project2/AppleProject/img/hero_iphone_13pro_COPY.jpg);
+  background-image: url(/AppleProject/img/hero_iphone_13pro_COPY.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -246,7 +246,7 @@ body {
 }
 
 .main__ipone13 {
-  background-image: url(/Project2/AppleProject/img/iphone13copy.jpg);
+  background-image: url(/AppleProject/img/iphone13copy.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -418,32 +418,32 @@ body {
 .main__collection--macbook {
   grid-column: 1 / span 1;
   grid-row: 1 / span 1;
-  background-image: url(/Project2/AppleProject/img/macbookpro.jpg);
+  background-image: url(/AppleProject/img/macbookpro.jpg);
 }
 .main__collection--watch {
   grid-column: 2 / span 1;
   grid-row: 1 / span 1;
-  background-image: url(/Project2/AppleProject/img/watch.jpg);
+  background-image: url(/AppleProject/img/watch.jpg);
 }
 .main__collection--homepod {
   grid-column: 1 / span 1;
   grid-row: 2 / span 1;
-  background-image: url(/Project2/AppleProject/img/homepod.jpg);
+  background-image: url(/AppleProject/img/homepod.jpg);
 }
 .main__collection--arcade {
   grid-column: 2 / span 1;
   grid-row: 2 / span 1;
-  background-image: url(/Project2/AppleProject/img/lego_castaways.jpg);
+  background-image: url(/AppleProject/img/lego_castaways.jpg);
 }
 .main__collection--card {
   grid-column: 1 / span 1;
   grid-row: 3 / span 1;
-  background-image: url(/Project2/AppleProject/img/card.jpg);
+  background-image: url(/AppleProject/img/card.jpg);
 }
 .main__collection--tv {
   grid-column: 2 / span 1;
   grid-row: 3 / span 1;
-  background-image: url(/Project2/AppleProject/img/promo_dickinson.jpg);
+  background-image: url(/AppleProject/img/promo_dickinson.jpg);
 }
 #mainlink {
   position: absolute;
